@@ -1,0 +1,8 @@
+.about {
+    margin-bottom: 70px;
+}
+
+.about__description {
+    line-height: 200%;
+    max-width: 888px;
+}

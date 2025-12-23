@@ -1,0 +1,24 @@
+:root {
+    /* FONTS */
+    --font-primary: "Muller", sans-serif;
+
+    /* COLORS */
+    --color-black: #000;
+    --color-gray-dark: #666;
+    --color-gray-very-dark: #333;
+    --color-accent: #c93;
+    --color-primary-dark: #a47312;
+    --color-primary: #f0bf5f;
+    --white: #fff;
+    --white-800: #ffffffcc;
+    --color-gray-very-light: #f1f1f1;
+
+
+
+
+
+    --color-light-blue: #cee8fa;
+    --color-gray-light: #e9e9e9;
+    --color-gray-medium: #999;
+    --gradient-dark-transparent: linear-gradient(90deg, rgba(48, 64, 89, 0.84) 0%, rgba(53, 65, 83, 0) 66.67%);
+}

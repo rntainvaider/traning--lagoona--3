@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+button {
+    border: none;
+    padding: none;
+    background: unset;
+    outline: none;
+}
+
+p,
+h1,
+h2,
+h3 {
+    margin: 0;
+}
