@@ -2,12 +2,6 @@
     margin-bottom: 70px;
 }
 
-.container {}
-
-.hero__tile {}
-
-.page-title {}
-
 .hero__list {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -65,5 +59,13 @@
 }
 
 .hero__item-link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
     color: var(--color-primary);
+}
+
+.hero__item-link_icon {
+    width: 10px;
+    height: 17px;
 }

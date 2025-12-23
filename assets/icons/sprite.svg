@@ -1,5 +1,6 @@
 <symbol fill="none" xmlns="http://www.w3.org/2000/svg">
     <svg id="arrow-right" viewBox="0 0 10 17">
-        <path d="M0.70713 0.707055L8.4853 8.48523L0.70713 16.2634" stroke="#F0BF5F" stroke-width="2" />
+        <path d="M0.70713 0.707055L8.4853 8.48523L0.70713 16.2634" stroke="currentColor"
+            stroke-width="2" fill="none" />
     </svg>
 </symbol>
