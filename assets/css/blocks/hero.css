@@ -63,9 +63,17 @@
     align-items: center;
     gap: 5px;
     color: var(--color-primary);
+    transition: gap .3s ease;
+    width: max-content;
 }
 
 .hero__item-link_icon {
     width: 10px;
     height: 17px;
+}
+
+@media (hover: hover) {
+    .hero__item-link:hover {
+        gap: 12px;
+    }
 }
